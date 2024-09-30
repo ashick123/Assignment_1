@@ -2,6 +2,7 @@
 YouTube Data Harvesting and Warehousing
 
 Overview:
+
 This project aims to develop a user-friendly Streamlit application that allows users to easily collect and analyze data from multiple YouTube channels. By integrating with the Google API, the app retrieves detailed information such as channel names, subscriber counts, extra... then video details (likes, comments), and more. Users can gather data from up to 10 different channels and store it in a SQL database (MySQL or SQL Server).
 
 Key Features:
